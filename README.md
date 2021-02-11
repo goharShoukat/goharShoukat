@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Profile! I am Gohar and I love coding and prefer to keep everything opensource!
+
+- I am an Erasmus Scholar completing my M2 at Centrale Nantes in Marine Reneweable Energy
+
 
 <!--
 **goharShoukat/goharShoukat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
