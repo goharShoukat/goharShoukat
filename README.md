@@ -1,9 +1,10 @@
-### Hi there 👋 Welcome to my Profile! I am Gohar and I love coding and prefer to keep everything opensource!
+### Hi there 👋 Welcome to my Profile! I am Gohar and I love coding and prefer to keep everything open-source!
 
 - I am an Erasmus Scholar completing my M2 at Centrale Nantes in Marine Reneweable Energy
 
-📫 How to reach me: 
+### 📫 How to reach me: 
 - Email me at: gohar.i.shoukat@gmail.com
+- LinkedIn
 - https://www.linkedin.com/in/goharshoukat/
 
 <!--
