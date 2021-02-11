@@ -4,8 +4,15 @@
 
 ### 📫 How to reach me: 
 - Email me at: gohar.i.shoukat@gmail.com
-- LinkedIn
-- https://www.linkedin.com/in/goharshoukat/
+- LinkedIn: https://www.linkedin.com/in/goharshoukat/
+
+### Current Projects:
+- Hydrodynamic Load Calcuation Library
+- GUI for the Load calculation Library
+- Signal Processing from sensors with 6 DoF
+
+### Currently Learning:
+- Convolutional Neural Netoworks
 
 <!--
 **goharShoukat/goharShoukat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
