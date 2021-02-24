@@ -7,6 +7,7 @@
 - LinkedIn: https://www.linkedin.com/in/goharshoukat/
 
 ### Current Projects:
+- Data Analysis for Experimental Study in Tidal Turbine Loading
 - Hydrodynamic Load Calcuation Library
 - GUI for the Load calculation Library
 - Signal Processing from sensors with 6 DoF
