@@ -10,7 +10,7 @@
 - Data Analysis for Experimental Study in Tidal Turbine Loading
 - Hydrodynamic Load Calcuation Library
 - GUI for the Load calculation Library
-- Signal Processing from sensors with 6 DoF
+- Signal Processing from sensors with 5 DoF
 
 ### Currently Learning:
 - Convolutional Neural Netoworks
