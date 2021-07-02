@@ -7,6 +7,7 @@
 - LinkedIn: https://www.linkedin.com/in/goharshoukat/
 
 ### Current Projects:
+- Development of Software for extraction and visualisation of ERA5 Wave and Wind data. 
 - Data Analysis for Experimental Study in Tidal Turbine Loading
 - Hydrodynamic Load Calcuation Library
 - Signal Processing from strain gauges with 5 DoF
