@@ -3,7 +3,7 @@
 - I am an Erasmus Scholar completing my M2 at Centrale Nantes in Marine Reneweable Energy
 
 ### 📫 How to reach me: 
-- Email me at: gohar.i.shoukat@gmail.com
+- Email me at: gshoukat@gdgeo.com
 - LinkedIn: https://www.linkedin.com/in/goharshoukat/
 
 ### Current Projects:
