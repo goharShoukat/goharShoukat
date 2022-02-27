@@ -20,10 +20,10 @@
 ### Languages I can communicate in:
 - C++
 - Python
-- R
 - Matlab
 - Git
-- HTML5
+- Dash
+- Streamlit
 
 <!--
 **goharShoukat/goharShoukat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
