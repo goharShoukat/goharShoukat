@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Profile! I am Gohar and I love developing algorithms to meet challenges associated with climate change!
 
-- I am an Erasmus Scholar completing my M2 at Centrale Nantes in Marine Reneweable Energy
-
+- I am a Machine Learning Research Engineer working in Offshore wind! 
+- 
 ### 📫 How to reach me: 
 - Email me at: gshoukat@gdgeo.com
 - LinkedIn: https://www.linkedin.com/in/goharshoukat/
