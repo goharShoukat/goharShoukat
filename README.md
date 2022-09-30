@@ -3,7 +3,7 @@
 - I am a Machine Learning Research Engineer working in Offshore wind! 
 
 ### 📫 How to reach me: 
-- Email me at: gshoukat@gdgeo.com
+- Email me at: gohar.shoukat@ucdconnect.ie
 - LinkedIn: https://www.linkedin.com/in/goharshoukat/
 
 ### Current Projects:
