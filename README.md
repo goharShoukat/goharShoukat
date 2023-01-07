@@ -1,27 +1,22 @@
-### Hi there 👋 Welcome to my Profile! I am Gohar and I love developing algorithms to meet challenges associated with climate change!
+### Hi there 👋 Welcome to my Profile! I am Gohar and I love developing software to meet challenges associated with climate change!
 
-- I am a Machine Learning Research Engineer working in Offshore wind! 
+- I am a Software Engineer working in Climate Tech! 
 
 ### 📫 How to reach me: 
 - Email me at: gohar.shoukat@ucdconnect.ie
 - LinkedIn: https://www.linkedin.com/in/goharshoukat/
 
-### Current Projects:
-- Development of Software for extraction and visualisation of ERA5 Wave and Wind data. 
-- Data Analysis for Experimental Study in Tidal Turbine Loading
-- Hydrodynamic Load Calcuation Library
-- Signal Processing from strain gauges with 5 DoF
-- Signal Processing from 3D Laser Doppler Velocimetry sensors in a flume tank
-
 ### Currently Learning:
-- Convolutional Neural Netoworks
 - Fintech
+- Machine Learning
 
 ### Languages I can communicate in:
-- C++
+- Javascript
 - Python
-- Matlab
 - Git
+
+### Frameworks I build websites using:
+- React
 - Dash
 - Streamlit
 
