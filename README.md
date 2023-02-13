@@ -6,10 +6,6 @@
 - Email me at: gohar.shoukat@ucdconnect.ie
 - LinkedIn: https://www.linkedin.com/in/goharshoukat/
 
-### Currently Learning:
-- Fintech
-- Machine Learning
-
 ### Languages I can communicate in:
 - Javascript
 - Python
@@ -17,10 +13,14 @@
 
 ### Frameworks I build websites using:
 - React
+- Django
 - Dash
 - Streamlit
 
 <!--
+### Currently Learning:
+- Fintech
+- Machine Learning
 **goharShoukat/goharShoukat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
