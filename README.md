@@ -12,7 +12,8 @@
 - Git
 
 ### Frameworks I build websites using:
-- React
+- ReactJS
+- NextJS
 - Django
 - Dash
 - Streamlit
