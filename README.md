@@ -18,6 +18,10 @@
 - Dash
 - Streamlit
 
+### Frameworks I build APIs in:
+- FastAPI
+- Flask
+- NestJS
 <!--
 ### Currently Learning:
 - Fintech
