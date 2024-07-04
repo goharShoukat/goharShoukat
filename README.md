@@ -7,20 +7,21 @@
 - LinkedIn: https://www.linkedin.com/in/goharshoukat/
 
 ### Languages I can communicate in:
-- Javascript
 - Python
+- Javascript / Typescript
 - Git
+- C++
 
 ### Frameworks I build websites using:
 - ReactJS
 - NextJS
-- Django
 - Dash
 - Streamlit
 
 ### Frameworks I build APIs in:
 - FastAPI
 - Flask
+- Django
 - NestJS
 <!--
 ### Currently Learning:
