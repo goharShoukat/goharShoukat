@@ -8,21 +8,20 @@
 
 ### Languages I can communicate in:
 - Python
+- C++ / Cython
 - Javascript / Typescript
-- Git
-- C++
-
-### Frameworks I build websites using:
-- ReactJS
-- NextJS
-- Dash
-- Streamlit
 
 ### Frameworks I build APIs in:
 - FastAPI
 - Flask
 - Django
 - NestJS
+
+### Frameworks I build websites using:
+- ReactJS
+- NextJS
+- Dash
+- Streamlit
 <!--
 ### Currently Learning:
 - Fintech
