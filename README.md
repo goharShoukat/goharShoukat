@@ -3,7 +3,6 @@
 - I am a Software Engineer working in Climate Tech! 
 
 ### 📫 How to reach me: 
-- Email me at: gohar.shoukat@ucdconnect.ie
 - LinkedIn: https://www.linkedin.com/in/goharshoukat/
 
 ### Languages I can communicate in:
